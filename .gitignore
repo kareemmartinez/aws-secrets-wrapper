@@ -1,0 +1,8 @@
+__pycache__/
+*.pyc
+sample_output/
+.env
+venv/
+*.pem
+*.key
+credentials
